@@ -24,7 +24,7 @@ The models were evaluated using the following metrics:
 * Mean Absolute Error (MAE)
 * Residual Analysis
 
-  _ A visual analysis of the residuals was carried out using Matplotlib and Seaborn.
+  - A visual analysis of the residuals was carried out using Matplotlib and Seaborn.
 
   - A quantitative analysis of the residuals was conducted using the Shapiro-Wilk normality test.
 
